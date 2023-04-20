@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Laravel Development**
 
-- 📫 How to reach me **partha_dev8818@yahoo.com**
+- 📫 How to reach me **parthadev76@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
