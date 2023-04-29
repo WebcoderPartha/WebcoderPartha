@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **School Management System**
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **Nuxt JS**
 
 - 💬 Ask me about **Laravel Development**
 
