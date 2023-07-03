@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Nuxt Ecommerce**
 
-- 🌱 I’m currently learning **Nuxt JS**
+- 🌱 I’m currently learning **Prisma ORM**
 
 - 💬 Ask me about **Laravel Development**
 
