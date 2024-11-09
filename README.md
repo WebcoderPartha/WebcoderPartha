@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Daily Cricket**
 
-- 🌱 I’m currently learning **Prisma ORM**
+- 🌱 I’m currently learning **Artificial intelligence (AI)**
 
 - 💬 Ask me about **Laravel Development**
 
