@@ -11,6 +11,7 @@
 - 💬 Ask me about **Laravel Development**
 
 - 📫 How to reach me **parthadev76@gmail.com**
+- 📫 Call/Whatsapp **+8801710147887**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
